@@ -1,4 +1,4 @@
-#4] Write a Python function to find the maximum of three numbers....completed
+#4] Write a Python function to find the maximum of three numbers....c
 
 num1 = int(input("Enter num1 : "))
 num2 = int(input("Enter num1 : "))

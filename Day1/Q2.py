@@ -9,7 +9,32 @@
 #pending
 
 num = int(input("Enter 4 digit number : "))
-th_place = num//1000
-h_place = (th_place//100)
-t_place = (h_place//10)
-u_place = (num%1000)
+
+a=num//1000
+num=num%1000
+b=num//100
+num=num%100
+c=num//10
+num=num%10
+
+print(f"Face value of entered number is = {a} {b} {c} {num}")
+
+x=a*1000
+y=b*100
+z=c*10
+
+print(f"Place value of entered number is = {x} {y} {z} {num}")
+
+print(f"Reverse value of entered number is = {num} {c} {b} {a}")
+
+
+
+
+
+
+
+
+# th_place = num//1000
+# h_place = (th_place//100)
+# t_place = (h_place//10)
+# u_place = (num%1000)

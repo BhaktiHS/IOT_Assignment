@@ -1,5 +1,5 @@
 #6) Write a Python function to calculate the factorial of a number (a non-negative integer). 
-# The function accepts number as an argument.
+# The function accepts number as an argument....c
 
 # def factorial(n):
 #     f = 1

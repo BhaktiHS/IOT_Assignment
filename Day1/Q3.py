@@ -1,4 +1,4 @@
-#3] Write a program to accept three integer numbers and find its average.....completed
+#3] Write a program to accept three integer numbers and find its average.....c
 
 num1 = int(input("Enter num1 : "))
 num2 = int(input("Enter num1 : "))

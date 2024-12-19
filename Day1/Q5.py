@@ -5,7 +5,7 @@
 # 80-89 B
 # 70-79 C
 # 60-69 D
-# 0-59 F....completed
+# 0-59 F....c
 
 Marathi = int(input("Enter marks for Marathi : "))
 English = int(input("Enter marks for English : "))
