@@ -4,18 +4,18 @@
 # def factorial(n):
 #     f = 1
 #     if n >= 1:
-#     f *= n
-#     n = n - 1
-# print("Factorial of given number is : ",f)    
+#       f *= n
+#       n = n - 1
+#     print(f"Factorial of given number is : {f}")
 
 # factorial(n=3)
 
-def factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n-1)
+# def factorial(n):
+#     if n == 0:
+#         return 1
+#     else:
+#         return n * factorial(n-1)
 
-number = int(input("Enter a number: "))
-result = factorial(number)
-print("The factorial of", number, "is:", result)
+# number = int(input("Enter a number: "))
+# result = factorial(number)
+# print("The factorial of", number, "is:", result)
